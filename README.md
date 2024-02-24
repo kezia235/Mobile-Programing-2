@@ -1,6 +1,6 @@
-# mobile_prog_2
+# mobile_programming_2
 
-A new Flutter project.
+Dibuat untuk menyelesaikan tugas mata kuliah mobile programming 2
 
 ## Getting Started
 
